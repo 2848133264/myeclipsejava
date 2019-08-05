@@ -8,6 +8,11 @@ import java.util.stream.Collectors;
 
 import demo617.Student;
 
+/**
+ * 没有什么能够阻挡为学习的路
+ * @author Administrator
+ *
+ */
 
 public class StreamTest1 {
 	Random random;
